@@ -4,9 +4,11 @@ El Laboratorio de Neurociencias e Inteligencia Artificial Aplicada -**Neuro-IA L
 
 El laboratorio participa en la formación de estudiantes de grado y posgrado, y ofrece servicios especializados a instituciones y organizaciones cuyos intereses se alinean con sus líneas de investigación. 
 
-# Proyectos en marcha
+# Proyectos
 
 El Neuro-IA LAB desarrolla proyectos de investigación básica, aplicada y de desarrollo tecnológico en interfaces cerebro-computadora, bases de datos multimodales de señales fisiológicas y procesamiento avanzado de señales EEG con inteligencia artificial. A continuación se presentan los proyectos en marcha, así como otros proyectos finalizados o en planificación.  
+
+## Proyectos en marcha
 
 ####  Estudio de factibilidad de decodificación de escritura a mano alzada usando EEG de alta densidad con aplicaciones a interfaces cerebro computadora para comunicación no convencional 
 
