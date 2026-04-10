@@ -64,6 +64,6 @@ La organización mantiene un conjunto de guías que establecen los estándares d
 <div align="center">
   <sub>
     © 2026 Neuro-IA LAB · Instituto Tecnológico Regional Suroeste · Fray Bentos, Uruguay <p>
-    Colaboración: <a href="https://github.com/masseyagus">Agustín Quintana</a>
+    Colaboración: <a href="https://github.com/masseyagus">Agustín QUINTANA</a> <a href="https://github.com/lucasbaldezzari">Lucas BALDEZZARI</a>
   </sub>
 </div>
