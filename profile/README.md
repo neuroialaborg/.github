@@ -39,7 +39,31 @@ El proyecto tiene como objetivo principal la generación de una base de datos de
 
 ---
 
+## 📚 Guías y Estándares
+
+La organización mantiene un conjunto de guías que establecen los estándares de trabajo para todos los repositorios. Se espera que todo colaborador, interno o externo, las lea antes de realizar cualquier contribución.
+
+| Guía | Descripción |
+|:---:|:---:|
+| [🤝 Código de Conducta y Contribución](/CODE_OF_CONDUCT.md) | Normas de convivencia, roles y lineamientos para Issues |
+| [📸 Commits](/guides/commits.md) | Estándar de Conventional Commits |
+| [🔀 Estrategia de Ramas](/guides/branching-strategy.md) | Vías de trabajo y convención de nombres de ramas |
+| [🔁 Pull Requests](/guides/PR_RULES.md) | Ciclo de vida, plantilla y buenas prácticas |
+| [🗂️ Estructura de Proyectos](/guides/project-structure.md) | Organización de carpetas y configuración base |
+
+
+---
+
 ## 📍 Ubicación
 
 🏛️ Instituto Tecnológico Regional Suroeste · [Universidad Tecnológica (UTEC)](https://utec.edu.uy/es/)  
 📌 Fray Bentos, Uruguay
+
+---
+
+<div align="center">
+  <sub>
+    © 2026 Neuro-IA LAB · Instituto Tecnológico Regional Suroeste · Fray Bentos, Uruguay <p>
+    Colaboración: <a href="https://github.com/masseyagus">Agustín Quintana</a>
+  </sub>
+</div>
